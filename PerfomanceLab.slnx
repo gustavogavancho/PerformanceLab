@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="PerformanceLab.Application/PerformanceLab.Application.csproj" />
+    <Project Path="PerformanceLab.Domain/PerformanceLab.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Insfrastructure/">
+    <Project Path="PerformanceLab.Persistence.SqlServer/PerformanceLab.Persistence.SqlServer.csproj" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="PerformanceLab.API/PerformanceLab.API.csproj" />
+  </Folder>
+</Solution>
